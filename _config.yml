@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : Awesome social experience
     description                           : Create modern Stories and share them with your followers on Instagram and Snapshat
-    fontawesome_icon_name                 : link
+    fontawesome_icon_name                 : share-alt-square
 
   - title                                 : One purchase
     description                           : Purchase once and get access to all Stories templates!
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : dollar-sign
 
   - title                                 : Gorgeous interface.
     description                           : CoolStory is designed for ease-of-use and follows Apple's UI guidelines. CoolStory is adapted to lignt or dark mode appearance.
