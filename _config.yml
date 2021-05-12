@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Awesome social experience
+    description                           : Create modern Stories and share them with your followers on Instagram and Snapshat
     fontawesome_icon_name                 : link
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : One purchase
+    description                           : Purchase once and get access to all Stories templates!
     fontawesome_icon_name                 : info-circle
 
   - title                                 : Gorgeous interface.
-    description                           : CoolStory is designed for ease-of-use and follows Apple's UI guidelines.
+    description                           : CoolStory is designed for ease-of-use and follows Apple's UI guidelines. CoolStory is adapted to lignt or dark mode appearance.
     fontawesome_icon_name                 : palette
 
 
