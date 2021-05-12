@@ -70,9 +70,9 @@ features                                  :
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Gorgeous interface.
+    description                           : iProTV is designed for ease-of-use and follows Apple's UI guidelines.
+    fontawesome_icon_name                 : fa-palette
 
 
 
